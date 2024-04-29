@@ -13,9 +13,5 @@ class ManageJobTitlesLocators {
  JOBNOTE = "#note"
  SAVEBUTTON = "#modal-save-button"
 
-
-
-
-
 }
 export default ManageJobTitlesLocators;
