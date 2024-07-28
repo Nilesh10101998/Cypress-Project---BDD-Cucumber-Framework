@@ -12,9 +12,7 @@ module.exports = defineConfig({
     },
     watchForFileChanges: true,
    // specPattern: 'cypress/integration/examples/*.js',
-    specPattern: ["cypress/e2e/Specs/*.{feature,features}",
-    
-    
+    specPattern: ["cypress/e2e/API",
   ],
 },
 });
